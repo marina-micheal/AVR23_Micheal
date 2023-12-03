@@ -18,15 +18,15 @@ MonoBehaviour:
   - Sattel_verstellteil
   - Rahmen
   - Reifen_hinten
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Gabel
+  - Sattelspanner
+  - Sattelstange
+  - Lenkrad
+  - Reifen_vorne
+  - Reifen_hinten
+  - Pedale
+  - Kette
+  - Leitung__Gangschaltung
   - 
   - 
   - 
